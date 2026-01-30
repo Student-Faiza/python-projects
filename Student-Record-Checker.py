@@ -1,5 +1,4 @@
-# Code with the help of AI
-# Day 10:
+# First Python Project:
 
 students = {
     "Farah": 95,
